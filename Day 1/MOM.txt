@@ -1,0 +1,63 @@
+MOM
+
+
+Core Basic
+
+mysql 
+in memory 
+ms sql server
+
+JDK driver
+
+Core Java
+Spring Boot 3
+Spring Core - IoC
+Spring MVC
+Spring AOP
+Spring Data JPA
+Spring REST
+Spring Security
+Docker
+Microservices
+
+Java ==> Sun Oracle
+Javascript + Typescript
+
+Database
+
+Java --version
+
+Javac --version
+
+Class
+
+Method 
+
+Array 
+
+Static
+
+Constructor
+
+OOPS
+
+Class
+
+////////////////////////////////
+
+interface
+
+exception handler
+
+collections 
+
+Lamda
+
+
+
+
+
+
+
+
+
