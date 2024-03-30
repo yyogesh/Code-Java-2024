@@ -1,6 +1,6 @@
 // Accessing inner class code from the instance area of an outer class.
 // Defining the Outer class
-class OuterClass1 {
+class Outer {
 
     // Inner class declaration
     class Inner {
@@ -22,10 +22,10 @@ class OuterClass1 {
 }
 
 // Test class to demonstrate the usage of the Outer class and its Inner class
-public class Test {
+public class OuterClass1 {
     public static void main(String[] args) {
         // Creating an instance of the Outer class
-        OuterClass1 outerClass = new OuterClass1();
+        Outer outerClass = new Outer();
 
         // Calling the access() method of the Outer class, which internally accesses the Inner class
         outerClass.access();
