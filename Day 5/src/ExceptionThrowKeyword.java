@@ -4,8 +4,6 @@ public class ExceptionThrowKeyword {
 //    	int i=2;
     	int i=0;
     	int j=0;
- 
-    	
     	try
     	{
     		j=18/i;
@@ -17,13 +15,12 @@ public class ExceptionThrowKeyword {
     	{
     		j=18/i;
     		System.out.println("that is default output"+e);
-
+			// e.getMessage();
 //    		System.out.println("Cannot divide by zero");
     	}
     	
     	catch(Exception e)
     	{
-  
     		System.out.println("Something went wrong."+e);
     	}
     	System.out.println(j);

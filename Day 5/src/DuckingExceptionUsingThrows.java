@@ -1,7 +1,6 @@
 class A2
 {
-    public void show() throws ClassNotFoundException
-    {
+    public void show() throws ClassNotFoundException {
 //    	try
 //    	{
 //    		Class.forName("Calc");

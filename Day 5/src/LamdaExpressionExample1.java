@@ -32,5 +32,10 @@ public class LamdaExpressionExample1 {
 
         A obj=i -> System.out.println("in show "+i);
         obj.show(5);
+
+        A obj2 = (int i) -> {
+    			System.out.println("in show"+i);
+    		};
+        obj2.show(10);
     }
 }

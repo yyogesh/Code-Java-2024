@@ -29,6 +29,8 @@ public class MultiThreading {
 //    	obj2.show();
         obj1.start();
         obj2.start();
+
+       // Thread.MIN_PRIORITY
     }
 
 }
